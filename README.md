@@ -1,7 +1,7 @@
 # Exensões úteis para o VSCode
 
-**C# for Visual Studio Code** 
-**C# Extensions**
+**C# for Visual Studio Code** || 
+**C# Extensions** ||
 **C# Snippets for Visual Studio Code**
  - quem trabalha com c# indispensável.
 
