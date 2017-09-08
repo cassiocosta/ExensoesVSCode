@@ -1,4 +1,4 @@
-# Exensões úteis para o VSCode
+# Extensões úteis para o VSCode
 
 **C# for Visual Studio Code** || 
 **C# Extensions** ||
