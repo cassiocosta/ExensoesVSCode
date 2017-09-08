@@ -1,5 +1,9 @@
-# ExensoesVSCode
-extensões úteis para mim do VsCode.
+# Exensões úteis para o VSCode
+
+**C# for Visual Studio Code** 
+**C# Extensions**
+**C# Snippets for Visual Studio Code**
+ - quem trabalha com c# indispensável.
 
 **ASP.NET Core Snippets** - pra galera do asp.net.
 
@@ -11,4 +15,4 @@ extensões úteis para mim do VsCode.
 
 **Git Blame** - mostra quem foi o caboclo que fez o código, mostra na barra inferior.
 
-
+**vscode-icons** - estiliza as pastas e arquivos da solution explorer, de acordo com a extensão do arquivo. 
