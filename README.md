@@ -9,9 +9,15 @@
 
 **Auto Import** - muito útil para quem trabalha com type script e angular. Importa os caminhos dos componentes, etc.
 
-**Auto Rename Tag** - só mudar o nome de um lado ou do outro da tag e ele já ajusta o outro lado.
+**Auto Rename Tag** - só mudar o nome de um lado ou do outro da tag e ele ajusta.
 
 **AutoFileName** - completa o nome dos arquivos, perfeito para adicionar imagens.
+
+**HTML CSS Support** - suporte para css.
+
+**HTML Snippets** - :)
+
+**IntelliSense for CSS class names** :)
 
 **Git Blame** - mostra quem foi o caboclo que fez o código, mostra na barra inferior.
 
