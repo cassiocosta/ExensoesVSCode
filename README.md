@@ -19,6 +19,8 @@
 
 **IntelliSense for CSS class names** :)
 
+**Markdown Support** - ajuda a escrever arquivos .md
+
 **Git Blame** - mostra quem foi o caboclo que fez o código, mostra na barra inferior.
 
 **vscode-icons** - estiliza as pastas e arquivos da solution explorer, de acordo com a extensão do arquivo. 
